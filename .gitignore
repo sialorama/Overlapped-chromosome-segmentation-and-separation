@@ -1,4 +1,3 @@
 #ignorer le dossier env et dataset
 .env
-dataset
 __pycache__
