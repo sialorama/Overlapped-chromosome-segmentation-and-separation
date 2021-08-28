@@ -1,0 +1,8 @@
+#ignorer le dossier env et dataset
+.env
+dataset/
+.__pycache__
+.ipynb_checkpoints
+
+# ignorer les fichier pdf
+*.pdf
