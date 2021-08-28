@@ -44,7 +44,7 @@ if __name__ == '__main__':
         model = UNet_plus(3, 1)
         model = model.to(device)
     elif args.model_type == 'UNet_plus2':
-        print('Using UNet_plus2')
+        print('UNet_plus2')
         model = UNet_plus2(3, 1)
         model = model.to(device)
     else:
