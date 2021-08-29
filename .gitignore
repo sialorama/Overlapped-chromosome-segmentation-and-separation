@@ -1,4 +1,4 @@
 #ignorer le dossier env et dataset
-.env
+venv
 __pycache__
 .ipynb_checkpoints
