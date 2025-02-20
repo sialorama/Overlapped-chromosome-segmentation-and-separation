@@ -6,11 +6,11 @@ Karyotyping is the process of arranging pairs of the chromosomes in an order to 
 
 This paper proposes an algorithm to separate the touching chromosomes and the segmentation of overlapping chromosomes from G-Band metaspread images. Segmentation is performed by obtaining the interesting (concave) points on the image contour and constructing proper hypotheses for segmentation and separation.  
 
-[!fig1](./fig1.jpg)  
+![fig1](./fig1.jpg)  
 
-[!fig1](./fig1.png)  
+![fig2](./fig1.png)  
 
-[!fig1](./fig1.gif)  
+![fig3](./fig1.gif)  
 
 Sources : 
 
