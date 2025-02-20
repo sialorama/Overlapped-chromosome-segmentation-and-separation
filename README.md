@@ -8,9 +8,9 @@ This paper proposes an algorithm to separate the touching chromosomes and the se
 
 ![fig1](./fig1.jpg)  
 
-![fig2](./fig1.png)  
+![fig2](./fig2.png)  
 
-![fig3](./fig1.gif)  
+![fig3](./fig3.gif)  
 
 Sources : 
 
